@@ -2,7 +2,9 @@
 ## firebase import export tool for database backup
 
 ###### install using NPM 
-** npm install firestore-export-import **
+``` 
+npm install firestore-export-import
+```
 
 ###### Get your Google Cloud Account Creditals from Firebase
 > you can ** generate new private key ** from project settings from firebase console and paste it to serviceAccountKey.json.
